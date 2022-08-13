@@ -9,7 +9,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/superninja0119/Angular-ecommerce
+$ git clone https://github.com/softwarearchitect817/Angular-eCommerce
 
 # Go into the repository
 $ cd angular-ecommerce
